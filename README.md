@@ -21,8 +21,9 @@
 | 16 | Implement a **simpler** (i.e. more elegant, non-scalaz) version of [Rapture.IO](http://rapture.io/) (crypto, JSON, XML, etc.) | 2 |  | 
 | 17 | Implement a **simpler** (i.e. more elegant, non-scalaz) version of [Rapture.IO](http://rapture.io/) (crypto, JSON, XML, etc.) | 2 |  | 
 | 18 | Re-implement [Snappy DB](http://www.snappydb.com/) from scratch | 2 |  | 
-| 19 | Re-implement [Level DB](http://leveldb.org/) from scratch | 2 |  | 
+| 19 | Re-implement [Level DB](http://leveldb.org/) from scratch (similar to [this](https://github.com/dain/leveldb).) | 2 |  | 
 | 20 | Re-implement [SQLite](https://www.sqlite.org/) from scratch (inspiration: [csharp-sqllite](https://code.google.com/p/csharp-sqlite/)) | 2 |  | 
 | 21 | Implement an ORM inspired by [sqlite-net](https://github.com/praeclarum/sqlite-net) | 2 |  | 
 | 22 | Implement an ORM inspired by [sqlbrite](https://github.com/square/sqlbrite) | 2 |  | 
 | 23 | Implement an ORM inspired by [SugarORM](http://satyan.github.io/sugar/) | 2 |  | 
+| 24 | Implement the CouchDB sync protocol in Scala inspired by [PouchDB](http://pouchdb.com/). Extra credits for implementing a CouchDB server as well  | 4 |  | 
