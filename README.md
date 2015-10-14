@@ -14,7 +14,7 @@
 | 9 | Probability Monad: Reimplement [Mike's blog samples](https://xyclade.github.io/MachineLearning/)  using several different ML libraries| 2 |  | 
 | 10 | Build an alternative for [firebase](https://www.firebase.com/) from scratch (inspiration: search [quora](https://www.quora.com/) for alternatives) | 4 |  | 
 | 11 | Implement [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/) | 2 |  | 
-| 12 | Create a beautiful, high-level, hacking library that wraps [libpcap](http://sourceforge.net/projects/libpcap/) in Java/Scala | 4 |  | 
+| 12 | Create a beautiful, high-level, hacking library that wraps [libpcap](http://sourceforge.net/projects/libpcap/) in Java/Scala. For inspiration look at libraries like [Scapy](http://www.secdev.org/projects/scapy/) | 4 |  | 
 | 13 | Port the [Elm](http://elm-lang.org/) samples to RxMobile | 2 |  | 
 | 14 | Android Monad, Haskell for Android ([Android's lifecycle](http://blog.getprismatic.com/android-state-saving/) smells like the State Monad, can you make it concrete?) | 4 |  | 
 | 15 | Implement a webserver in Scala based on [Simon Marlow's WebServer](http://community.haskell.org/~simonmar/papers/web-server-jfp.pdf), but based on modern standards like HTTP 2.0, websockets, server sent-events, etc. | 4 |  | 
