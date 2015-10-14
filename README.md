@@ -2,7 +2,7 @@
 
 | Project | Description | Max. team size | Team |
 | ------- | ----------- | -------------- | ---- |
-| 0 | Implement a [Markdown implementation/compiler](http://research.microsoft.com/en-us/um/people/daan/madoko/doc/reference.html), using parser combinators, ASTs, etc. | 4 |  | 
+| 0 | Implement a [Markdown implementation/compiler](http://research.microsoft.com/en-us/um/people/daan/madoko/doc/reference.html), using parser combinators, ASTs, etc. | 4 | Maikel Langezaal, Pouja Nikray and Jochem de Goede  | 
 | 1 | Build a monadic Web stack in Scala and Scala.js (inspiration: [cycle.js](http://cycle.js.org/) & [your server as a function](http://dl.acm.org/citation.cfm?id=2525538)) | 4 |  | 
 | 2 | Develop High level Cloud programming models / Declarative Data Center, inspiration: [Satnam Singh's Blog](http://blog.raintown.org/) | 2 |  | 
 | 3 | Develop High level Cloud programming models / Declarative Data Center, inspiration: [Functional programming for the data centre](http://research.microsoft.com/en-us/um/people/simonpj/papers/parallel/epstein-thesis.pdf) | 2 |  | 
