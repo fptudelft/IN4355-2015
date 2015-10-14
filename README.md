@@ -19,12 +19,11 @@
 | 14 | Android Monad, Haskell for Android ([Android's lifecycle](http://blog.getprismatic.com/android-state-saving/) smells like the State Monad, can you make it concrete?) | 4 |  | 
 | 15 | Implement a webserver in Scala based on [Simon Marlow's WebServer](http://community.haskell.org/~simonmar/papers/web-server-jfp.pdf), but based on modern standards like HTTP 2.0, websockets, server sent-events, etc. | 4 |  | 
 | 16 | Implement a **simpler** (i.e. more elegant, non-scalaz) version of [Rapture.IO](http://rapture.io/) (crypto, JSON, XML, etc.) | 2 |  | 
-| 17 | Implement a **simpler** (i.e. more elegant, non-scalaz) version of [Rapture.IO](http://rapture.io/) (crypto, JSON, XML, etc.) | 2 |  | 
-| 18 | Re-implement [Snappy DB](http://www.snappydb.com/) from scratch | 2 |  | 
-| 19 | Re-implement [Level DB](http://leveldb.org/) from scratch (similar to [this](https://github.com/dain/leveldb).) | 2 |  | 
-| 20 | Re-implement [SQLite](https://www.sqlite.org/) from scratch (inspiration: [csharp-sqllite](https://code.google.com/p/csharp-sqlite/)) | 2 |  | 
-| 21 | Implement an ORM inspired by [sqlite-net](https://github.com/praeclarum/sqlite-net) | 2 |  | 
-| 22 | Implement an ORM inspired by [sqlbrite](https://github.com/square/sqlbrite) | 2 |  | 
-| 23 | Implement an ORM inspired by [SugarORM](http://satyan.github.io/sugar/) | 2 |  | 
-| 24 | Implement the CouchDB sync protocol in Scala inspired by [PouchDB](http://pouchdb.com/). Extra credits for implementing a CouchDB server as well  | 4 |  | 
-| 25 | Create Scala bindings for [AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/current-supported-versions.html), convert all Java examples to Scala, and port at least popular [10 Node.js samples](http://lmgtfy.com/?q=node.js+samples)  | 4 |  | 
+| 17 | Re-implement [Snappy DB](http://www.snappydb.com/) from scratch | 2 |  | 
+| 18 | Re-implement [Level DB](http://leveldb.org/) from scratch (similar to [this](https://github.com/dain/leveldb).) | 2 |  | 
+| 19 | Re-implement [SQLite](https://www.sqlite.org/) from scratch (inspiration: [csharp-sqllite](https://code.google.com/p/csharp-sqlite/)) | 2 |  | 
+| 20 | Implement an ORM inspired by [sqlite-net](https://github.com/praeclarum/sqlite-net) | 2 |  | 
+| 21 | Implement an ORM inspired by [sqlbrite](https://github.com/square/sqlbrite) | 2 |  | 
+| 22 | Implement an ORM inspired by [SugarORM](http://satyan.github.io/sugar/) | 2 |  | 
+| 23 | Implement the CouchDB sync protocol in Scala inspired by [PouchDB](http://pouchdb.com/). Extra credits for implementing a CouchDB server as well  | 4 |  | 
+| 24 | Create Scala bindings for [AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/current-supported-versions.html), convert all Java examples to Scala, and port at least popular [10 Node.js samples](http://lmgtfy.com/?q=node.js+samples)  | 4 |  | 
