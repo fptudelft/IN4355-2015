@@ -17,7 +17,7 @@
 | 12 | Create a beautiful, high-level, hacking library that wraps [libpcap](http://sourceforge.net/projects/libpcap/) in Java/Scala | 4 |  | 
 | 13 | Port the [Elm](http://elm-lang.org/) samples to RxMobile | 2 |  | 
 | 14 | Android Monad, Haskell for Android (Android's lifecycle smells like the State Monad, can you make it concrete?) | 4 |  | 
-| 15 | Implement a webserver in Scala based on Simon Marlow's WebServer, but based on modern standards like HTTP 2.0, websockets, server sent-events, etc. | 4 |  | 
+| 15 | Implement a webserver in Scala based on [Simon Marlow's WebServer](http://community.haskell.org/~simonmar/papers/web-server-jfp.pdf), but based on modern standards like HTTP 2.0, websockets, server sent-events, etc. | 4 |  | 
 | 16 | Implement a **simpler** (i.e. more elegant, non-scalaz) version of [Rapture.IO](http://rapture.io/) (crypto, JSON, XML, etc.) | 2 |  | 
 | 17 | Implement a **simpler** (i.e. more elegant, non-scalaz) version of [Rapture.IO](http://rapture.io/) (crypto, JSON, XML, etc.) | 2 |  | 
 | 18 | Re-implement [Snappy DB](http://www.snappydb.com/) from scratch | 2 |  | 
