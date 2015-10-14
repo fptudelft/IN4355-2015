@@ -9,7 +9,7 @@
 | 4 | Develop High level Cloud programming models / Declarative Data Center, inspiration: [Service combinators for farming virtual machines](http://research.microsoft.com/pubs/70522/tr-2007-165.pdf), [Docker](https://www.docker.com/) | 2 |  | 
 | 5 | Develop High level Cloud programming models / Declarative Data Center, inspiration: [Service Combinators for Web Computing](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.165.8408&rep=rep1&type=pdf) | 2 |  | 
 | 6 | Develop High level Cloud programming models / Declarative Data Center, inspiration: [Chef](https://www.chef.io/), [Puppet](https://github.com/puppetlabs/puppet), etc. | 2 |  | 
-| 7 | Probability Monad: [Practical probabilistic Programming with Monads](http://dl.acm.org/citation.cfm?id=2804317) | 2 |  | 
+| 7 | Probability Monad and Probabilistic Programming: [Practical probabilistic Programming with Monads](http://dl.acm.org/citation.cfm?id=2804317), [Programming with Uncertain Data](http://www.cs.utexas.edu/users/mckinley/papers/bornholt-honors-2013.pdf) | 2 |  | 
 | 8 | Probability Monad: [HLearn](https://izbicki.me/public/papers/tfp2013-hlearn-a-machine-learning-library-for-haskell.pdf) done right (HLearn is way too complicated) | 2 |  | 
 | 9 | Probability Monad: Reimplement [Mike's blog samples](https://xyclade.github.io/MachineLearning/)  using several different ML libraries| 2 |  | 
 | 10 | Build an alternative for [firebase](https://www.firebase.com/) from scratch (inspiration: search [quora](https://www.quora.com/) for alternatives) | 4 |  | 
