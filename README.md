@@ -24,6 +24,6 @@
 | 19 | Re-implement [SQLite](https://www.sqlite.org/) from scratch (inspiration: [csharp-sqllite](https://code.google.com/p/csharp-sqlite/)) | 2 | Jesper Byrdal Kjær & Alma Luz Valencia López | 
 | 20 | Implement an ORM inspired by [sqlite-net](https://github.com/praeclarum/sqlite-net) | 2 |  | 
 | 21 | Implement an ORM inspired by [sqlbrite](https://github.com/square/sqlbrite) | 2 |  | 
-| 22 | Implement an ORM inspired by [SugarORM](http://satyan.github.io/sugar/) | 2 |  | 
+| 22 | Implement an ORM inspired by [SugarORM](http://satyan.github.io/sugar/) | 2 | Willem Vaandrager en Olaf Maas  | 
 | 23 | Implement the CouchDB sync protocol in Scala inspired by [PouchDB](http://pouchdb.com/). Extra credits for implementing a CouchDB server as well  | 4 |  | 
 | 24 | Create Scala bindings for [AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/current-supported-versions.html), convert all Java examples to Scala, and port at least popular [10 Node.js samples](http://lmgtfy.com/?q=node.js+samples)  | 4 |  | 
