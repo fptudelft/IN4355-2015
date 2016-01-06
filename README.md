@@ -11,7 +11,7 @@
 | 6 | Develop High level Cloud programming models / Declarative Data Center, inspiration: [Chef](https://www.chef.io/), [Puppet](https://github.com/puppetlabs/puppet), etc. | 2 |  | |
 | 7 | Probability Monad and Probabilistic Programming: [Practical probabilistic Programming with Monads](http://dl.acm.org/citation.cfm?id=2804317), [Programming with Uncertain Data](http://www.cs.utexas.edu/users/mckinley/papers/bornholt-honors-2013.pdf) | 2 | Ioana Leontiuc & Bart van Vuuren | |
 | 8 | Probability Monad: [HLearn](https://izbicki.me/public/papers/tfp2013-hlearn-a-machine-learning-library-for-haskell.pdf) done right (HLearn is way too complicated) | 2 |  | |
-| 9 | Probability Monad: Reimplement [Mike's blog samples](https://xyclade.github.io/MachineLearning/)  using several different ML libraries| 2 | Wang Bo,Yu Liang,Yanbo Huang| |
+| 9 | Probability Monad: Reimplement [Mike's blog samples](https://xyclade.github.io/MachineLearning/)  using several different ML libraries| 2 | Wang Bo,Yu Liang,Yanbo Huang| Yes |
 | 10 | Build an alternative for [firebase](https://www.firebase.com/) from scratch (inspiration: search [quora](https://www.quora.com/) for alternatives) | 4 |  Rob van Bekkum, Victor Li, Sander van den Oever, Jorden van Breemen | Yes |
 | 11 | Implement [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/) | 2 | Michiel Haisma & Joop Aué | |
 | 12 | Create a beautiful, high-level, hacking library that wraps [libpcap](http://sourceforge.net/projects/libpcap/) in Java/Scala. For inspiration look at libraries like [Scapy](http://www.secdev.org/projects/scapy/) | 4 |  | |
