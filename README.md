@@ -21,7 +21,7 @@
 | 16 | Implement a **simpler** (i.e. more elegant, non-scalaz) version of [Rapture.IO](http://rapture.io/) (crypto, JSON, XML, etc.) | 2 | Jasper Denkers & Christian Veenman | Yes | 13:40 - 13:55 | 
 | 17 | Re-implement [Snappy DB](http://www.snappydb.com/) from scratch | 2 | Maarten Duijn, ~~Manoj Krishnaraj~~ | Yes (1) | 11:30 - 11:45 |
 | 18 | Re-implement [Level DB](http://leveldb.org/) from scratch (similar to [this](https://github.com/dain/leveldb).) | 2 | Kelong Cong & Aaron Ang | Yes | 11:50 - 12:05 | 
-| 19 | Re-implement [SQLite](https://www.sqlite.org/) from scratch (inspiration: [csharp-sqllite](https://code.google.com/p/csharp-sqlite/)) | 2 | Jesper Byrdal Kjær & Alma Luz Valencia López | | - | 
+| 19 | Re-implement [SQLite](https://www.sqlite.org/) from scratch (inspiration: [csharp-sqllite](https://code.google.com/p/csharp-sqlite/)) | 2 | Jesper Byrdal Kjær & Alma Luz Valencia López | Yes | - | 
 | 20 | Implement an ORM inspired by [sqlite-net](https://github.com/praeclarum/sqlite-net) | 2 |  | | - |
 | 21 | Implement an ORM inspired by [sqlbrite](https://github.com/square/sqlbrite) | 2 |  | | - | 
 | 22 | Implement an ORM inspired by [SugarORM](http://satyan.github.io/sugar/) | 2 | Willem Vaandrager en Olaf Maas  | | - |
