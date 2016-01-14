@@ -1,5 +1,23 @@
 # IN4355 - Functional Programming 2015
 
+
+###Final presentation slot reservations
+
+To reserve a slot to present, do a pull request where you fill your group number in the desired slot. Both sessions will start on 17:00. The locations, and details regarding the final presentations will be posted on blackboard within the upcoming week.
+
+
+
+| Slot |  12-02-2016 | 19-02-2016 |
+| --- | --- | --- |
+| 1 | Group (number) | Group (number) |
+| 2 | Group (number) | Group (number) |
+| 3 | Group (number) | Group (number) |
+| 4 | Group (number) | Group (number) |
+| 5 | Group (number) | Group (number) |
+
+
+#projects
+
 | Project | Description | Max. team size | Team | Presenting? | timeslot |
 | ------- | ----------- | -------------- | ---- | ----------- | ----- |
 | 0 | Implement a [Markdown implementation/compiler](http://research.microsoft.com/en-us/um/people/daan/madoko/doc/reference.html), using parser combinators, ASTs, etc. | 4 | Maikel Langezaal, Pouja Nikray and Jochem de Goede  | Yes | 12:10 - 12:15 |
