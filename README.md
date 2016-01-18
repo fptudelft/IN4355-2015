@@ -10,7 +10,7 @@ To reserve a slot to present, do a pull request where you fill your group number
 | Slot |  12-02-2016 | 19-02-2016 |
 | --- | --- | --- |
 | 1 | Group (number) | Group (number) |
-| 2 | Group (number) | Group (number) |
+| 2 | Group (number) | 10 |
 | 3 | Group (number) | Group (number) |
 | 4 | Group (number) | Group (number) |
 | 5 | Group (number) | Group (number) |
