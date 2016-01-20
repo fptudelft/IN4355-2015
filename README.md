@@ -3,7 +3,7 @@
 
 ###Final presentation slot reservations
 
-To reserve a slot to present, do a pull request where you fill your group number in the desired slot. Both sessions will start on 17:00. The locations, and details regarding the final presentations will be posted on blackboard within the upcoming week.
+To reserve a slot to present, do a pull request where you fill your group number in the desired slot. Both sessions will take place at EWI-LB 01.170 (Timmanzaal) and will start at 16:45h. Details regarding the final presentations are posted on blackboard.
 
 
 
