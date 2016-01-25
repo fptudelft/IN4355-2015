@@ -13,7 +13,7 @@ To reserve a slot to present, do a pull request where you fill your group number
 | 2 | Group 7 | Group 10       |
 | 3 | Group 17 | Group 11       |
 | 4 | Group (number) | Group 16       |
-| 5 | Group (number) | Group 13 |
+| 5 | Group 9 | Group 13 |
 
 
 #projects
