@@ -12,7 +12,7 @@ To reserve a slot to present, do a pull request where you fill your group number
 | 1 | [Group 0](https://github.com/fptudelft/MarkdownCompiler) | [Group 18](https://github.com/fptudelft/lsm-hs)       |
 | 2 | [Group 7](https://github.com/fptudelft/ProbabilisticMonads) | [Group 10](https://github.com/fptudelft/AlternativeFirebase)       |
 | 3 | [Group 17](https://github.com/mjduijn/AlternativeSnappyDB) | [Group 11](https://github.com/fptudelft/NeuralNetworksFP)       |
-| 4 | Group (number) | [Group 16](https://github.com/fptudelft/AlternativeRapture.IO)       |
+| 4 | [Group 3](https://github.com/fptudelft/DeclarativeDataCenter) | [Group 16](https://github.com/fptudelft/AlternativeRapture.IO)       |
 | 5 | [Group 9](https://github.com/fptudelft/MachineLearningSamples) | [Group 13](https://github.com/fptudelft/ElmSamples) |
 
 
