@@ -3,17 +3,20 @@
 
 ###Final presentation slot reservations
 
-To reserve a slot to present, do a pull request where you fill your group number in the desired slot. Both sessions will take place at EWI-LB 01.170 (Timmanzaal) and will start at 16:45h. Details regarding the final presentations are posted on blackboard.
+To reserve a slot to present, do a pull request where you fill your group number in the desired slot. Both sessions will take place at EWI-LB 01.170 (Timmanzaal). The first session will start at 16:45h, **the second will start at 16:00h**. Details regarding the final presentations are posted on blackboard.
+
+**Please upload your presentation to your GitHub repository before the presentation session starts!**
 
 
 
 | Slot |  12-02-2016 | 19-02-2016 |
 | --- | --- | --- |
-| 1 | [Group 0](https://github.com/fptudelft/MarkdownCompiler) | [Group 18](https://github.com/fptudelft/lsm-hs)       |
-| 2 | [Group 7](https://github.com/fptudelft/ProbabilisticMonads) | [Group 10](https://github.com/fptudelft/AlternativeFirebase)       |
-| 3 | [Group 17](https://github.com/mjduijn/AlternativeSnappyDB) | [Group 11](https://github.com/fptudelft/NeuralNetworksFP)       |
-| 4 | [Group 3](https://github.com/fptudelft/DeclarativeDataCenter) | [Group 16](https://github.com/fptudelft/AlternativeRapture.IO)       |
-| 5 | [Group 9](https://github.com/fptudelft/MachineLearningSamples) | [Group 13](https://github.com/fptudelft/ElmSamples) |
+| 1 | [Group 0](https://github.com/fptudelft/MarkdownCompiler) | [Group 9](https://github.com/fptudelft/MachineLearningSamples) |
+| 2 | [Group 7](https://github.com/fptudelft/ProbabilisticMonads) | [Group 18](https://github.com/fptudelft/lsm-hs) |
+| 3 | [Group 17](https://github.com/mjduijn/AlternativeSnappyDB) | [Group 10](https://github.com/fptudelft/AlternativeFirebase) |
+| 4 | [Group 3](https://github.com/fptudelft/DeclarativeDataCenter) | [Group 11](https://github.com/fptudelft/NeuralNetworksFP) |
+| 5 | --- | [Group 16](https://github.com/fptudelft/AlternativeRapture.IO) |
+| 6 | --- | [Group 13](https://github.com/fptudelft/ElmSamples) |
 
 
 #projects
